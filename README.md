@@ -1,7 +1,5 @@
 # 👋 Hi! I'm Sophia
 
----
-
 ## 💻 About Me
 
 - Computer Science @ Johns Hopkins University
