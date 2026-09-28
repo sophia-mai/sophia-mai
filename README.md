@@ -11,7 +11,6 @@ I'm especially interested in software engineering, AI, robotics, and creating to
 ## 💻 About Me
 
 - 🎓 Computer Science @ Johns Hopkins University
-- 🧩 Minor in Robotics
 - 💼 Former Microsoft Explore Intern
 - 🛠️ I enjoy building apps, experimenting with AI, and turning ideas into working products
 - 🎨 Outside of coding, I enjoy painting, drawing, crocheting, photography, and design
@@ -25,14 +24,6 @@ I'm especially interested in software engineering, AI, robotics, and creating to
 **Frameworks & Tools:** React, Node.js, Git, GitHub, Figma
 
 **Currently Exploring:** AI agents, full-stack development, robotics, and embedded systems
-
----
-
-## 🚀 Things I've Built
-
-- 🤖 **ProtoSense** — HackPrinceton runner-up project
-- 🌐 **Full-Stack Applications** — Building user-focused web applications
-- 🧠 **AI Projects** — Experimenting with AI-powered tools and automation
 
 ---
 
