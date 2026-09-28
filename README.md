@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi! I'm Sophia
 
-<!--
-**sophia-mai/sophia-mai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student @ Johns Hopkins University
 
-Here are some ideas to get you started:
+I like building things at the intersection of **software, design, and real-world problems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm especially interested in software engineering, AI, robotics, and creating tools that make everyday tasks a little easier.
+
+---
+
+## 💻 About Me
+
+- 🎓 Computer Science @ Johns Hopkins University
+- 🧩 Minor in Robotics
+- 💼 Former Microsoft Explore Intern
+- 🛠️ I enjoy building apps, experimenting with AI, and turning ideas into working products
+- 🎨 Outside of coding, I enjoy painting, drawing, crocheting, photography, and design
+
+---
+
+## 🛠️ My Tech Stack
+
+**Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL, HTML, CSS
+
+**Frameworks & Tools:** React, Node.js, Git, GitHub, Figma
+
+**Currently Exploring:** AI agents, full-stack development, robotics, and embedded systems
+
+---
+
+## 🚀 Things I've Built
+
+- 🤖 **ProtoSense** — HackPrinceton runner-up project
+- 🌐 **Full-Stack Applications** — Building user-focused web applications
+- 🧠 **AI Projects** — Experimenting with AI-powered tools and automation
+
+---
+
+### 🌱 Currently
+
+Building more things, learning how they work, and trying to solve problems I run into in everyday life.
